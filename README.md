@@ -1,5 +1,9 @@
 # DeblurredPaperCollection
 
+## 2025
+### BlurDM - A Blur Diffusion Model for Image Deblurring NeurIPS 2025
+### DeepRFTv2
+
 ## 2018
 ### Scale-recurrent Network for Deep Image Deblurring 2018 [[paper]](https://arxiv.org/abs/1802.01770)
 ## 2017
